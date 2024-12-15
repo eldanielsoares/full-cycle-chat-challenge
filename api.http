@@ -1,0 +1,11 @@
+POST http://localhost:3000/api/user
+Content-Type: application/json
+
+{
+    "message": "Daniel"
+}
+
+
+###
+GET http://localhost:3000/api/user
+
